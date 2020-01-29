@@ -120,6 +120,7 @@ if __name__ == '__main__':
         wear_item(True)
         print("OK!")
 
+    cv.imwrite('Result.jpg', img)
     cv.imshow('Raw', raw_img)
     cv.imshow('Result', img)
 
