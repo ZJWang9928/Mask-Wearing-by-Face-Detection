@@ -8,7 +8,7 @@
 
 @author: Jonathan Wang
 @coding: utf-8
-@environment: Manjaro 18.1.5 Juhraya
+@environment: Manjaro 18.1.5 Juhraya + Python 3.7 + opencv 3.4.4 + numpy 1.17.3 + dlib 19.15.0
 @date: 29th Jan., 2020
 
 """
